@@ -1,0 +1,29 @@
+    input {
+        font-size: 20px;
+        padding: 10px;
+        margin-top: 5px;
+        margin-left: 5px;
+    }
+
+    label {
+        padding: 10px;
+        margin-right: 5px;
+    }
+
+    button {
+        margin-top: 45px;
+        font-size: 20px;
+        background-color: aquamarine;
+        cursor: pointer;
+        margin-left: 30%;
+    }
+
+    .cad {
+        height: 300px;
+        width: 850px;
+        background-color: bisque;
+    }
+
+    h1 {
+        text-align: center;
+    }

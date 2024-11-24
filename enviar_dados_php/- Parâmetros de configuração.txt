@@ -1,0 +1,15 @@
+Vamos usar HTML, PHP e MySQL
+Servidor Apache = Xampp
+Gerenciador de Banco de Dados = Workbench
+Editor de Códigos = Visual Studio
+
+Criar banco de dados e tabela no MySQL
+Criar arquivos cadastro.html e envia.php
+
+Parâmetros de Configuração:
+- Endereço = localhost
+- Usuário = root
+- Senha = sem senha
+- Nome do Banco = teste
+- Nome da Tabela = dados
+
